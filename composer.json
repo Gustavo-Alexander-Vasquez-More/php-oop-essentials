@@ -1,0 +1,15 @@
+{
+    "name": "phantomroot/phpejercicios",
+    "autoload": {
+        "psr-4": {
+            "Ejercicio1\\": "src/Ejercicio1/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GustavoVasquez",
+            "email": "tavovm24@hotmail.com"
+        }
+    ],
+    "require": {}
+}
