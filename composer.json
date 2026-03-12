@@ -2,7 +2,8 @@
     "name": "phantomroot/phpejercicios",
     "autoload": {
         "psr-4": {
-            "Ejercicio1\\": "src/Ejercicio1/"
+            "Ejercicio1\\": "src/Ejercicio1/",
+            "Ejercicio2\\": "src/Ejercicio2/"
         }
     },
     "authors": [
