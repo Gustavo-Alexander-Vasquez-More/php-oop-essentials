@@ -3,7 +3,8 @@
     "autoload": {
         "psr-4": {
             "Ejercicio1\\": "src/Ejercicio1/",
-            "Ejercicio2\\": "src/Ejercicio2/"
+            "Ejercicio2\\": "src/Ejercicio2/",
+            "Ejercicio3\\": "src/Ejercicio3/"
         }
     },
     "authors": [

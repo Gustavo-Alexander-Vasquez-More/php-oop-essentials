@@ -2,10 +2,8 @@
 
 namespace Ejercicio1;
 
-interface Enviable {
+interface Enviable
+{
 
     function calcularCostoEnvio(): float;
-
 }
-
-?>
